@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**geourjoa/geourjoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Partner at Tetras Libre https://tetras-libre.fr/*
+- Founder of Foilon in 2017 https://foilon.io/
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP / Laravel
+- Javascript / JQuery / Alpine.js
+- React / AngularJs
+
+## Contact 
+
+- https://www.linkedin.com/in/anthony-geourjon/
