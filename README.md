@@ -13,5 +13,9 @@
 
 - https://www.linkedin.com/in/anthony-geourjon/
 
-Open source is the way !
-https://www.theopensourceway.org/
+## Current projects
+
+- Mirador Multi User Environnemet
+- Mirador Annotation Editor plugin
+- Dolibarr ERP Plugin
+- And more !
